@@ -1,5 +1,7 @@
 # 📂 COVID-19 Data Analysis and Visualization
 
+![alt text](data-analysis.jpg)
+
 ## Overview
 
 This project provides an in-depth analysis and visualization of COVID-19 data to uncover trends, insights, and patterns. Using data from the [Our World in Data](https://covid.ourworldindata.org/data/owid-covid-data.csv), the analysis focuses on key metrics such as total cases, deaths, vaccination progress, and mortality rates. The project employs Python libraries like Pandas, Matplotlib, Seaborn, and Plotly for data manipulation and visualization.
